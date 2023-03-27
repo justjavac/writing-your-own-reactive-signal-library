@@ -1,4 +1,4 @@
-# writing-your-own-reactive-signal-library
+# Writing Your Own Reactive Signal Library
 
 文章
 [Writing Your Own Reactive Signal Library](https://www.lksh.dev/blog/writing-your-own-reactive-signal-library/)
